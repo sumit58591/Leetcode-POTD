@@ -1,5 +1,4 @@
 // Leetcode 1752
-
 #include<bits/stdc++.h>
 using namespace std;
 bool check(vector<int>& nums) {    
